@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ListViewTitleShadow.iml" filepath="$PROJECT_DIR$/ListViewTitleShadow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListViewTitleBarShadow.iml" filepath="$PROJECT_DIR$/ListViewTitleBarShadow.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
