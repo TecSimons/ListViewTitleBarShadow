@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@id/radiogroup1"
+    android:layout_width="match_parent"
+    android:layout_height="38.5dp"
+    android:orientation="horizontal">
+
+    <RadioButton
+        android:id="@id/button1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:button="@null"
+        android:gravity="center"
+        android:background="@drawable/cardealer_main_selector_1"
+        android:text="历史寻车" />
+
+    <RadioButton
+        android:id="@id/button2"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:button="@null"
+        android:gravity="center"
+        android:background="@drawable/cardealer_main_selector_2"
+        android:text="历史车源" />
+
+    <RadioButton
+        android:id="@id/button3"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:button="@null"
+        android:gravity="center"
+        android:background="@drawable/cardealer_main_selector_3"
+        android:text="联系我们" />
+</RadioGroup>

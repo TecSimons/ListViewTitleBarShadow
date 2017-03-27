@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- tag key -->
+    <item name = "tag_key_1" type="id">false</item>
+    <item name = "tag_key_2" type="id">false</item>
+    <item name = "tag_key_3" type="id">false</item>
+
+    <!--common-->
+    <item name="listview1" type="id">false</item>
+
+    <item name="textview1" type="id">false</item>
+    <item name="textview2" type="id">false</item>
+    <item name="textview3" type="id">false</item>
+    <item name="textview4" type="id">false</item>
+    <item name="textview5" type="id">false</item>
+    <item name="textview6" type="id">false</item>
+
+    <item name="imageview1" type="id">false</item>
+    <item name="imageview2" type="id">false</item>
+    <item name="imageview3" type="id">false</item>
+    <item name="imageview4" type="id">false</item>
+    <item name="imageview5" type="id">false</item>
+    <item name="imageview6" type="id">false</item>
+
+    <item name="button1" type="id">false</item>
+    <item name="button2" type="id">false</item>
+    <item name="button3" type="id">false</item>
+    <item name="button4" type="id">false</item>
+
+    <item name="radiobutton1" type="id">false</item>
+    <item name="radiobutton2" type="id">false</item>
+    <item name="radiobutton3" type="id">false</item>
+    <item name="radiobutton4" type="id">false</item>
+
+    <item name="checkbox1" type="id">false</item>
+
+    <item name="edittext1" type="id">false</item>
+
+    <item name="radiogroup1" type="id">false</item>
+
+    <item name="viewgroup1" type = "id">false</item>
+    <item name="viewgroup2" type = "id">false</item>
+    <item name="viewgroup3" type = "id">false</item>
+    <item name="viewgroup4" type = "id">false</item>
+    <item name="viewgroup5" type = "id">false</item>
+    <item name="viewgroup6" type = "id">false</item>
+</resources>
